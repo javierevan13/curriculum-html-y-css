@@ -27,6 +27,13 @@ h3 {
     padding: 1em;
 }
 
+.foto {
+    width: 100px;
+    margin-left: 46%;
+    margin-top: 1%;
+    border-radius: 100%;
+}
+
 .seccion {
     width: 70%;
     margin: 0 auto;
